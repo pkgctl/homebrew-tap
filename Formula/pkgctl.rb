@@ -3,8 +3,8 @@ class Pkgctl < Formula
     homepage "https://github.com/pkgctl/pkgctl"
     license "MIT"
 
-    url "https://github.com/pkgctl/pkgctl/archive/refs/tags/v0.2.0.tar.gz"
-    sha256 "b4c8a78071347b957abb89dd82511909a030875b3224c42929dc5a6f4290d810"
+    url "https://github.com/pkgctl/pkgctl/archive/refs/tags/v0.3.0.tar.gz"
+    sha256 "ac8b6eeb222d50539039729420861a5f8243e83925034e20a1f6231c0aa84570"
 
     depends_on "go" => :build
 
